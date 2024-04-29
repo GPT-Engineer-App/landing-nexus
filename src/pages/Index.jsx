@@ -10,7 +10,7 @@ const Index = () => {
             Elevate Your Business with CloudTech
           </Heading>
           <Text fontSize="xl">Discover the power of our cloud solutions to scale your operations efficiently and securely.</Text>
-          <Button rightIcon={<FaArrowRight />} colorScheme="blue" size="lg">
+          <Button rightIcon={<FaArrowRight />} colorScheme="red" size="lg">
             Get Started
           </Button>
         </VStack>
